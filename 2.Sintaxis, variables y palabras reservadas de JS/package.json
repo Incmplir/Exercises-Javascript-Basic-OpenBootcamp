@@ -1,0 +1,11 @@
+{
+  "name": "info-personal",
+  "version": "1.0.0",
+  "description": "informacion personal",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Incmplir",
+  "license": "ISC"
+}
